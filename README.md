@@ -15,7 +15,7 @@
 
 <p align="center">
     <a href="https://www.facebook.com/mizrmx" target="blank" style='margin-right:6px'>
-        <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' width="30px" height="30px" style="background:#FFFFFF">
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svgstyle=logoColor=white' alt='facebook' width="30px" height="30px" style="background:#FFFFFF">
     </a>
     <a href="https://www.instagram.com/mizrmx/" target="blank" style='margin-right:6px'>
         <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' width="30px" height="30px">
