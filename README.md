@@ -3,12 +3,12 @@
 
 ### Hola, soy Mayra Zurita 👋 
 
-👾   Geek 
-💻   Mentor Tech
-⚡️    Fan de Hackatones
-🎯   #ActiveCitizens
-🚀   REACT / JS / HTML / CSS / PHP 
-🔭   Estoy trabajando en Wordpress Developer en @kondosoft 
+- 👾   Geek 
+- 💻   Mentor Tech
+- ⚡️    Fan de Hackatones
+- 🎯   #ActiveCitizens
+- 🚀   REACT / JS / HTML / CSS / PHP 
+- 🔭   Estoy trabajando en Wordpress Developer en @kondosoft 
 
 <a href="https://app.daily.dev/mizrmx"><img src="https://api.daily.dev/devcards/7ad882e193f64d4982e8cd495f2ef17b.png?r=uwa" width="350" alt="Mayra Zurita's Dev Card"/></a>
 
