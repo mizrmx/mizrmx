@@ -1,5 +1,5 @@
 
-## ![Mayra header](https://github.com/mizrmx/mizrmx/blob/main/img/banner.png)
+## ![Mayra header](https://github.com/mizrmx/mizrmx/blob/main/img/banner_orange.png)
 
 ### Hola, soy Mayra Zurita 👋 
 
